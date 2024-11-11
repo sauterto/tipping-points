@@ -7,7 +7,6 @@ dependencies:
   - pip
   - pip:
     - nbgitpuller
-    - sphinx-gallery
     - pandas
     - matplotlib
     - ipywidgets
