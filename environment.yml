@@ -4,7 +4,3 @@ channels:
   - defaults
 dependencies:
   - numpy
-  - pandas
-  - matplotlib
-  - plotly
-  - xarray
