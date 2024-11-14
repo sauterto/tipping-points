@@ -1,5 +1,3 @@
 name: tipping-environment
-channels:
-  - defaults
 dependencies:
   - numpy
