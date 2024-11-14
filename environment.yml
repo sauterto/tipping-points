@@ -1,0 +1,12 @@
+name: tipping-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pip
+  - pip:
+    - pandas
+    - matplotlib
+    - plotly
+    - xarray
