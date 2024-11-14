@@ -1,6 +1,5 @@
 name: tipping-environment
 channels:
-  - conda-forge
   - defaults
 dependencies:
   - numpy
