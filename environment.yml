@@ -1,9 +1,9 @@
-# environment.yml
-name: tipping 
+name: tipping-environment
 channels:
-- conda-forge
+  - conda-forge
 dependencies:
-- python==3.11
-- numpy==1.26.4
-- xarray==2024.10.0
-- plotly
+  - python==3.12
+  - pandas
+  - numpy
+  - matplotlib
+  - plotly
