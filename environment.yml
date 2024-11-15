@@ -5,5 +5,6 @@ dependencies:
   - python==3.12
   - pandas
   - numpy
+  - scipy
   - matplotlib
   - plotly
